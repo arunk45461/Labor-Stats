@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# CDK
+cdk.out/
+cdk.context.json
+
+# Lambda layer (built locally)
+lambda_layer/
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# AWS
+.aws-sam/
+samconfig.toml
