@@ -1,6 +1,6 @@
 # Labor-Stats 📊
 
-> **Rearc Data Quest Solution** — A full AWS data pipeline that ingests BLS labor statistics and US population data, performs analytics, and automates everything with AWS CDK.
+> **Labor Analytics Solution** — A full AWS data pipeline that ingests BLS labor statistics and US population data, performs analytics, and automates everything with AWS CDK.
 
 ---
 
